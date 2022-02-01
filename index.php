@@ -7,6 +7,7 @@
     <title>latihan git remote</title>
 </head>
 <body>
-    <h1>hello world<h1>
+    <h1>hello world</h1>
+        <p>testing parapraf</p>
 </body>
 </html>
