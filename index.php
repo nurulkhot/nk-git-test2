@@ -8,6 +8,9 @@
 </head>
 <body>
     <h1>hello world</h1>
-        <p>testing parapraf</p>
+    <p>testing parapraf</p>
+    <ul>
+        <li>satu</li>
+</ul>
 </body>
 </html>
